@@ -1,19 +1,14 @@
 # electronvue
 
-## Project setup
-```
+### Instalar
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
+### Compilar
 npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Electron
+npm run electron
+
+
+### Vue
+npm run serve
