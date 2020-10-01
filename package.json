@@ -1,10 +1,12 @@
 {
   "name": "electronvue",
+  "main": "main.js",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "electron": "vue-cli-service build && electron ."
   },
   "dependencies": {
     "core-js": "^3.6.5",
